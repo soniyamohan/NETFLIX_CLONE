@@ -1,0 +1,24 @@
+
+
+.overflow-scroll::-webkit-scrollbar {
+    display: none;
+}
+.pic{
+  padding: 5px;
+  margin-bottom: 20px;
+}
+.pic:hover{
+  transition:0.5s;
+  transform: scale(1.05);
+}
+.nav-link:hover{
+  border-radius:5%;
+  background-color: #fff;
+
+}
+.pad{
+  padding-bottom: 20px;
+}
+section {
+  padding: 20px 0px 0px 0px;
+}
